@@ -3,3 +3,9 @@ venv
 .benchmarks
 .pytest_cache
 /unison
+/crossplots/
+/grids/
+/lib_tests/
+/library/
+/points/
+/zadanie/
